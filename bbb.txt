@@ -1,0 +1,90 @@
+03-Sep-20 02:46 PM
+service@bharti-axalife.com
+02240654242   service@bharti-axalife.com\
+cognizant emp id : 935153
+
+
+
+cagakawa@mail-guru.net
+mailguru
+if(!isset($_SESSION['email']))
+ 	header('location:http://localhost/login/index.php');
+
+
+https://esprout-9d569.firebaseapp.com/
+
+https://www.geeksforgeeks.org/array-data-structure/#introduction
+
+#A42B23
+8388889652
+7908784064
+
+Aptitute And Attitude -TCS Penalist
+in the past four years what have you have done ..you have to show thatt
+not only telling i will do better in the organisation.
+
+690620
+
+data collection
+use of machine learning data
+hoe to shoecase resul
+
+
+In first year i was able to clear JEE but due to financial inefficiency i could not get myself admitted into 
+collage so i tried next year for getting Tuition fee waiver which i successfully got and thus started my engineering carrier.
+GL23110724I
+44G31107GO1
+
+
+class Account
+{
+    int acid;
+    String branch;
+    float bal;
+    //constructor
+     Account()
+    {
+        System.out.println("Zero -arg constructor");
+        acid=213123;
+        branch="hyderabad";
+        bal=250;
+    }
+    /*Account(String br,float tbal)
+    {
+        System.out.println("param  constructor");
+        branch=br;
+        bal=tbal;
+        System.out.println(acid+"  "+branch+"  "+bal);
+    }*/
+    void getDetails(int x,String y,float z)
+    {
+        acid=x;
+        branch=y;
+        bal=z;
+    }
+    void putDetails()
+    {
+        System.out.println(acid+"  "+branch+"  "+bal);
+    }
+}//class
+class ConTest
+{
+    public static void main(String args[])
+    {
+        Account a1=new Account();
+        a1.putDetails();
+        a1.getDetails(101,"ameer pet",7800);
+        a1.putDetails();
+        /*Account a2=new Account("s.r",750);
+        a2.putDetails();
+        a2.getDetails(13,"s.r",6789);
+        a2.putDetails();*/
+        }//main
+}//class\
+
+
+https://cognizant.webex.com/cognizant/j.php?MTID=m875c529e658bc8000a7bbc829a4b35a3
+
+saurabh cognizant BH Session 7406074074 
+
+539824 host key
